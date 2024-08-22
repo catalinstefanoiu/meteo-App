@@ -167,7 +167,7 @@ function displayWeather(cityName, weatherData) {
     const pageContent = document.querySelector(".page-content");
 
     pageContent.append(createTodayWeatherSection(cityName, weatherData.current));
-    // pageContent.append(createForecastWeatherSection(cityName, weatherData.forecasts));
+    pageContent.append(createForecastWeatherSection(cityName, weatherData.forecasts));
 }
 
 function createTodayWeatherSection(cityName, currentWeather) {
