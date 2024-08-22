@@ -16,5 +16,8 @@ The application fetches weather data using the Open-Meteo API and displays the c
 **Open-Meteo API**: For retrieving geolocation and weather data.
 
 ![Screenshot 2024-08-23 000106](https://github.com/user-attachments/assets/9c2945ba-0440-4abe-88d6-396b7a1fca30)
-![Screenshot 2024-08-23 000242](https://github.com/user-attachments/assets/5dbe189f-dca6-479d-90ae-9f75602435ea)
+
+![Screenshot 2024-08-23 000135](https://github.com/user-attachments/assets/f5af6c45-25fd-4840-bb0e-438fb6a440e9)
+
 ![Screenshot 2024-08-23 000242](https://github.com/user-attachments/assets/68c514a0-0575-4b71-abc2-8b70a3959881)
+
