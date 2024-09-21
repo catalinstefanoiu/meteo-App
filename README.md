@@ -21,3 +21,4 @@ The application fetches weather data using the Open-Meteo API and displays the c
 
 ![Screenshot 2024-08-23 000242](https://github.com/user-attachments/assets/68c514a0-0575-4b71-abc2-8b70a3959881)
 
+You can also view the site at: https://forecastmeteoapp.netlify.app
